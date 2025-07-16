@@ -45,7 +45,7 @@ G:/Meu Drive/CONDOMÍNIOS/ÁGAPE (AP)/FINANCEIRO/CONTAS/2025-06 DESPESAS BANCÁR
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Joaovitorsm18/automacao_despesas_bancarias.git
 cd seu-repositorio
 ````
 
@@ -102,10 +102,3 @@ O script irá:
 ## 🧑‍💻 Autor
 
 Automação desenvolvida por [João Vítor](https://github.com/Joaovitorsm18)
-
-```
-
----
-
-
-```
